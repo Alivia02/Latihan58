@@ -1,12 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package latihan58.tambahkurang;
-
 /**
  *
  * @author ACER
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "tambah kurang"
  */
 public class PBOLat58 {
     private int x;
